@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=py,django,redis,sqlite,postgres,postman,html,bootstrap,linux,bash,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,redis,rabbitmq,sqlite,postgres,postman,html,bootstrap,linux,bash,git,github)](https://skillicons.dev)
 
 ___
 
