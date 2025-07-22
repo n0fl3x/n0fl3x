@@ -3,26 +3,26 @@ Programing languages:
 - Groovy
 - JS
 
-#### Frameworks:
+Frameworks:
 - Django
 - DjangoRest
 
-#### Databases
+Databases
 - SQLite
 - PstgreSQL
 - Mongo
 - Redis
 
-#### OS
+OS
 - Windows
 - Ubuntu
 
-#### Additional\
+Additional
 - Docker
 - Git
 - Bootstrap
 
-#### Tools
+Tools
 - PyCharm
 - VScode
 - Postman
