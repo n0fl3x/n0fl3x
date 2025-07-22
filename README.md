@@ -7,22 +7,24 @@ Frameworks:
 - Django
 - DjangoRest
 
-Databases
+Databases:
 - SQLite
 - PstgreSQL
 - Mongo
 - Redis
+- YQL
+- CHYT
 
-OS
+OS:
 - Windows
 - Ubuntu
 
-Additional
+Additional:
 - Docker
 - Git
 - Bootstrap
 
-Tools
+Tools:
 - PyCharm
 - VScode
 - Postman
